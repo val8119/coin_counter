@@ -1,2 +1,2 @@
-# coin_counter
- 
+# Coin Counter
+Makes counting coins easy
