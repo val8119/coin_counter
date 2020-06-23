@@ -9,6 +9,12 @@ body {
     background-color: #1e1e2c;
 }
 
+.total-container p {
+    margin-top: 25px;
+    font-size: 20px;
+    color: #ebebeb;
+}
+
 .bottom-container {
     margin-top: -25px;
 }
@@ -32,30 +38,5 @@ body {
 }
 
 .container input:focus {
-    outline: none;
-}
-
-.btn-container {
-    margin-top: 15px;
-}
-
-.btn-container button {
-    width: 80px;
-    height: 35px;
-    border-radius: 20px;
-    border-color: transparent;
-    background-color: #ffffff;
-}
-
-.btn-container button:active {
-    position: relative;
-    top: 1px;
-}
-
-.btn-container button:hover {
-    background-color: #ebebeb;
-}
-
-.btn-container button:focus {
     outline: none;
 }
